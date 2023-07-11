@@ -1,0 +1,41 @@
+1. ctrl+j --- for opening closing terminal in vs code
+
+2. git init --- to intialize/create local repository
+
+3. git add filename --- adds specific file to staging area
+
+4. git add . --- adds all files of the folder to staging area
+
+5. git status  --- shows the status of git
+
+6. git commit -m "message" --- commits along with a message
+
+7. git log --- shows the commit history
+
+8. git reset commitid --- resets back to that particular commit
+
+9. git branch --- gets the names of all the branches
+
+10. git branch branchname --- creates a new branch
+
+11. git checkout branchname --- moves to the particular branch
+
+12. git merge branchname --- merges <branchname> branch with the current branch
+
+13. git checkout -b branchname --- creates a new branch and moves to it
+
+14. git remote add origin <github-repository-link> --- links local repository and remote repository
+
+15. git remote -v --- gives linked repository link
+
+16. git push origin branchname --- pushes the branch to the remote repository
+
+17. git pull origin branchname --- pulls the branch from the remote repository
+
+18. git clone <repository-name> --- clones a given repository 
+
+19. git branch -d branchname --- delete the barnch
+
+20.git pull origin Branch-name --- to pull braches created by others or us
+
+
